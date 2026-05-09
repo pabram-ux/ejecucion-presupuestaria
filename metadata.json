@@ -1,0 +1,6 @@
+{
+  "name": "Monitor Ejecutivo Presupuestario GAMSB",
+  "description": "Tablero de control ejecutivo para la visualización en tiempo real de la ejecución presupuestaria del GAM San Borja, con desgloses detallados por categorías y programas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
